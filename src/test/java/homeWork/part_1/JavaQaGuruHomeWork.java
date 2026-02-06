@@ -7,5 +7,4 @@ public class JavaQaGuruHomeWork {
         System.out.println("Hello World!");
 
     }
-
 }
